@@ -7,7 +7,7 @@ By Ga-yana
 
 ## A static homepage for Justice Department.   
 
-
+### Click [here](https://justiceforall.netlify.app/) to see it live
 
 ![Homepage](./images/Screenshot%202022-08-05%20at%203.23.31%20PM.png)
 # 
